@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chit-e/static/css/main.5f361e03.chunk.css",
-    "main.js": "/chit-e/static/js/main.5250705d.chunk.js",
-    "main.js.map": "/chit-e/static/js/main.5250705d.chunk.js.map",
+    "main.js": "/chit-e/static/js/main.6ab1954f.chunk.js",
+    "main.js.map": "/chit-e/static/js/main.6ab1954f.chunk.js.map",
     "runtime-main.js": "/chit-e/static/js/runtime-main.dab406ba.js",
     "runtime-main.js.map": "/chit-e/static/js/runtime-main.dab406ba.js.map",
     "static/js/2.51e5cf31.chunk.js": "/chit-e/static/js/2.51e5cf31.chunk.js",
     "static/js/2.51e5cf31.chunk.js.map": "/chit-e/static/js/2.51e5cf31.chunk.js.map",
     "index.html": "/chit-e/index.html",
-    "precache-manifest.50c5032e177fccbf929ce6134f736a6d.js": "/chit-e/precache-manifest.50c5032e177fccbf929ce6134f736a6d.js",
+    "precache-manifest.e2d1cfc85a04d413ec5d708f64c26270.js": "/chit-e/precache-manifest.e2d1cfc85a04d413ec5d708f64c26270.js",
     "service-worker.js": "/chit-e/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/chit-e/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.51e5cf31.chunk.js.LICENSE.txt": "/chit-e/static/js/2.51e5cf31.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dab406ba.js",
     "static/js/2.51e5cf31.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5250705d.chunk.js"
+    "static/js/main.6ab1954f.chunk.js"
   ]
 }
