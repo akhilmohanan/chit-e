@@ -15,7 +15,7 @@ function App(props: {history: History<LocationState>}) {
     <div className="App">
       <ConnectedRouter history={history}>
         <Switch>
-          <Route exact path="/" component={Login} />
+          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Login} />
         </Switch>
       </ConnectedRouter>
     </div>

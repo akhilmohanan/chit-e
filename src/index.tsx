@@ -8,7 +8,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import StoreProcedure from './store/store'
 
-const storeProcedure = new StoreProcedure;
+const storeProcedure = new StoreProcedure();
 const history: History<LocationState> = storeProcedure.history;
 const store = storeProcedure.getStore(); 
 

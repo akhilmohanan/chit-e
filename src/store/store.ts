@@ -3,7 +3,6 @@ import {
   Action,
   applyMiddleware,
   combineReducers,
-  compose,
   createStore,
   Middleware,
   Reducer,
@@ -15,7 +14,6 @@ import thunk from 'redux-thunk';
 import { routerMiddleware, connectRouter } from 'connected-react-router'
 
 import { IStoreProcedure } from './store.interface';
-import dataModel from './../sample-data';
 import { resetApp } from '../constants/typs';
 import sampleData from './../sample-data'
 
