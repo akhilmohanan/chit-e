@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02e339f5b58ff2df378a3d6736d44548",
+    "revision": "b23d280c78e1a996d91e44de59ab9224",
     "url": "/akhilmohanan.github.io/chit-e/index.html"
   },
   {
-    "revision": "61a1076ace987ab8ff98",
+    "revision": "e575229d43f04b25c94f",
     "url": "/akhilmohanan.github.io/chit-e/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akhilmohanan.github.io/chit-e/static/js/2.8af2fe93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61a1076ace987ab8ff98",
-    "url": "/akhilmohanan.github.io/chit-e/static/js/main.902da6d9.chunk.js"
+    "revision": "e575229d43f04b25c94f",
+    "url": "/akhilmohanan.github.io/chit-e/static/js/main.e02a65bb.chunk.js"
   },
   {
     "revision": "7f242f37d2b25e5f477c",
