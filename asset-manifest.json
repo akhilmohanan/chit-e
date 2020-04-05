@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/akhilmohanan.github.io/chit-e/static/css/main.5f361e03.chunk.css",
-    "main.js": "/akhilmohanan.github.io/chit-e/static/js/main.e02a65bb.chunk.js",
-    "main.js.map": "/akhilmohanan.github.io/chit-e/static/js/main.e02a65bb.chunk.js.map",
-    "runtime-main.js": "/akhilmohanan.github.io/chit-e/static/js/runtime-main.f3513a7a.js",
-    "runtime-main.js.map": "/akhilmohanan.github.io/chit-e/static/js/runtime-main.f3513a7a.js.map",
-    "static/js/2.8af2fe93.chunk.js": "/akhilmohanan.github.io/chit-e/static/js/2.8af2fe93.chunk.js",
-    "static/js/2.8af2fe93.chunk.js.map": "/akhilmohanan.github.io/chit-e/static/js/2.8af2fe93.chunk.js.map",
-    "index.html": "/akhilmohanan.github.io/chit-e/index.html",
-    "precache-manifest.4822738b121a1abf3d68e551de155236.js": "/akhilmohanan.github.io/chit-e/precache-manifest.4822738b121a1abf3d68e551de155236.js",
-    "service-worker.js": "/akhilmohanan.github.io/chit-e/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/akhilmohanan.github.io/chit-e/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8af2fe93.chunk.js.LICENSE.txt": "/akhilmohanan.github.io/chit-e/static/js/2.8af2fe93.chunk.js.LICENSE.txt"
+    "main.css": "/chit-e/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chit-e/static/js/main.769ed902.chunk.js",
+    "main.js.map": "/chit-e/static/js/main.769ed902.chunk.js.map",
+    "runtime-main.js": "/chit-e/static/js/runtime-main.dab406ba.js",
+    "runtime-main.js.map": "/chit-e/static/js/runtime-main.dab406ba.js.map",
+    "static/js/2.51e5cf31.chunk.js": "/chit-e/static/js/2.51e5cf31.chunk.js",
+    "static/js/2.51e5cf31.chunk.js.map": "/chit-e/static/js/2.51e5cf31.chunk.js.map",
+    "index.html": "/chit-e/index.html",
+    "precache-manifest.d08d7a3e254154a9e07ec6f2451051c5.js": "/chit-e/precache-manifest.d08d7a3e254154a9e07ec6f2451051c5.js",
+    "service-worker.js": "/chit-e/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/chit-e/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.51e5cf31.chunk.js.LICENSE.txt": "/chit-e/static/js/2.51e5cf31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3513a7a.js",
-    "static/js/2.8af2fe93.chunk.js",
+    "static/js/runtime-main.dab406ba.js",
+    "static/js/2.51e5cf31.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e02a65bb.chunk.js"
+    "static/js/main.769ed902.chunk.js"
   ]
 }
